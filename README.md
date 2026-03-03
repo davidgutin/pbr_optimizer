@@ -1,3 +1,8 @@
+# PBR Optimizer
+👉 **Download the latest stable version from the [Releases](../../releases) section.**
+PBR Optimizer is a lightweight Python tool designed to validate and clean PBR texture libraries efficiently.
+
+
 PBR Optimizer is a lightweight yet powerful Python tool designed to validate and clean PBR texture libraries quickly and efficiently.
 It helps 3D artists, game developers, and technical artists maintain clean, production-ready texture folders with minimal effort.
 
